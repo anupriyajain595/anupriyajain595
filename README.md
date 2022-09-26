@@ -1,7 +1,7 @@
 <img src="https://github.com/anupriyajain595/anupriyajain595/blob/main/header.jpg" alt="Headerimage">
 <h1 align="center">Hi 👋, I'm Anupriya Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="animated image" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 <img align="right" alt="animated image" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
