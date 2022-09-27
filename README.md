@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Bonafide Generator**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Frontend-Development**
 
