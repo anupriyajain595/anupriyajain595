@@ -1,4 +1,4 @@
-<img src="https://github.com/anupriyajain595/anupriyajain595/blob/main/header.jpg" alt="Headerimage">
+<img src="https://github.com/anupriyajain59/https://github.com/anupriyajain595/anupriyajain595/blob/main/header.jpg" alt="Headerimage">
 <h1 align="center">Hi 👋, I'm Anupriya Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
